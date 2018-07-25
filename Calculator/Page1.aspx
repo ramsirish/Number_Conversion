@@ -33,7 +33,7 @@
             <asp:Button ID="enterButton" runat="server" Text="Convert" OnClick="Submit_Click" />
         </p>
 
-            <asp:TextBox ID="resultBox" runat="server"  Height="25px" Width="150px" ReadOnly="true"></asp:TextBox>
+            <asp:TextBox ID="resultBox" runat="server"  Height="25px" Width="235px" ReadOnly="true"></asp:TextBox>
 
 
 
