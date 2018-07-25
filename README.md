@@ -4,6 +4,7 @@ Converting Binary, Decimal, Hexadecimal
 to Binary, Decimal, Hexadecimal
 
 examples:
+
 Binary 11111 -> Decimal 31 -> Hexadecimal 1F
 
 Binary 100100 -> Decimal 36 -> Hexadecimal 24
